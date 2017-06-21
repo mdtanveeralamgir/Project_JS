@@ -1,0 +1,31 @@
+body {
+	width: 100%;
+	background-color: #D8EBEB;
+}
+
+
+#highlightRow {
+	display:  block;
+	margin: 0 auto;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 6;
+	text-align: center;
+	
+}
+
+th {
+	background-color: #689997;
+	font-family: 'Baloo Tamma', cursive;
+}
+
+td {
+	font-family: 'Baloo Chettan', cursive;
+}
+
+table, th, td {
+
+	border: 2px solid grey;
+}
