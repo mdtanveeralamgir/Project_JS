@@ -1,0 +1,47 @@
+{
+	"SUTDENT":
+	[
+		{
+			
+			"NAME": "Md Tanveer Alamgir", 
+			"PICTURE": "images/1.jpg",
+			"INFO": "Computer Science(GrDip)"
+			
+		},
+		
+		{
+			
+			"NAME": "Shamma Nabila Nikhat", 
+			"PICTURE": "images/2.jpg",
+			"INFO": "Electrical Engineering"
+			
+		},
+		
+		{
+			
+			"NAME": "Hamid Reza", 
+			"PICTURE": "images/3.jpg",
+			"INFO": "CISCO Engineer"
+			
+		},
+		
+		{
+			
+			"NAME": "Mohim Hossain", 
+			"PICTURE": "images/4.jpg",
+			"INFO": "Bachelor of business administrator"
+			
+		},
+
+		{
+			
+			"NAME": "Mezba Amin", 
+			"PICTURE": "images/5.jpg",
+			"INFO": "Architect"
+			
+		}				
+		
+	]	
+	
+	
+}
